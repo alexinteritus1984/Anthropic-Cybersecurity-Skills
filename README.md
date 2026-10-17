@@ -1,4 +1,4 @@
-<p align="center">
+g<p align="center">
   <img src="assets/banner.png" alt="Anthropic Cybersecurity Skills" width="100%">
 </p>
 
@@ -458,7 +458,7 @@ This project is licensed under the [Apache License 2.0](LICENSE). You are free t
 
 **If this project helps your security work, consider giving it a ⭐**
 
-[⭐ Star](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/stargazers) · [🍴 Fork](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/fork) · [💬 Discuss](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/discussions) · [📝 Contribute](CONTRIBUTING.md)
+[⭐ Star](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/stargazers) · [🍴 Fork](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/fork) · [💬 Discuss](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/discussions) · [📝. Contribute](CONTRIBUTING.md)
 
 Community project by [@mukul975](https://github.com/mukul975). Not affiliated with Anthropic PBC.
 
